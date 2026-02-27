@@ -1,6 +1,6 @@
 <?php
 // you can use query based filtering for country and language.
-// Usage example for indian channel with hindi and english channel only: playlist.php?country=in&language=hi,en
+// Usage example for Indian channels with Hindi and English only: playlist.php?country=in&language=hi,en
 
 $jsonFile = 'data.json';
 $jsonData = file_get_contents($jsonFile);
