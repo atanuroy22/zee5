@@ -1,5 +1,5 @@
 {
-  "enable_tab": false,
+  "enable_tab": true,
   "tab_name": "Sports",
 
   "enable_channels": true,
@@ -7,14 +7,6 @@
     {
         "name": "Star Sports 1 (576p)",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0412/master.m3u8",
-        "logo": "https://i.imgur.com/E5jjKHI.png",
-        "category": "Sports",
-        "language": "en",
-        "country": "IN"
-      },
-      {
-        "name": "Star Sports 1 HD (1080p)",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0441/master.m3u8",
         "logo": "https://i.imgur.com/E5jjKHI.png",
         "category": "Sports",
         "language": "en",
