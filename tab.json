@@ -5,27 +5,19 @@
   "enable_channels": true,
   "channels": [
     {
-        "name": "Star Sports 1 (576p)",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0412/master.m3u8",
-        "logo": "https://i.imgur.com/E5jjKHI.png",
-        "category": "Sports",
-        "language": "en",
+        "name": "Tehzeeb TV (720p)",
+        "url": "https://cdn-4.pishow.tv/live/239/master.m3u8",
+        "logo": "https://i.imgur.com/PCVOdup.png",
+        "category": "ZEE",
+        "language": "ur",
         "country": "IN"
       },
       {
-        "name": "Star Sports 1 Hindi (576p)",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0415/master.m3u8",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png",
-        "category": "Sports",
-        "language": "hi",
-        "country": "IN"
-      },
-      {
-        "name": "Star Sports 1 Hindi HD (1080p)",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0443/master.m3u8",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png",
-        "category": "Sports",
-        "language": "hi",
+        "name": "Zee 24 Taas (720p)",
+        "url": "https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00230LKE.png?lock=720x540",
+        "category": "ZEE",
+        "language": "mr",
         "country": "IN"
       }
   ],
