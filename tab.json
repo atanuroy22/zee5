@@ -1,0 +1,38 @@
+{
+  "enable_tab": true,
+  "tab_name": "Sports",
+
+  "enable_channels": true,
+  "channels": [
+    {
+      "name": "Sony Sports Ten 3 Hindi (576p)",
+      "url": "http://103.229.254.25:7001/play/a09q/index.m3u8",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
+      "category": "Sports",
+      "language": "hi",
+      "country": "IN"
+    },
+    {
+      "name": "Sony Sports Ten 5 HD (1080p)",
+      "url": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
+      "category": "Sports",
+      "language": "en",
+      "country": "IN"
+    }
+  ],
+
+  "enable_browser_channels": true,
+  "browser_channels": [
+    {
+      "name": "sts1h",
+      "url": "https://Wap4tv.pages.dev/?id=sts1h",
+      "logo": "https://raw.githubusercontent.com/Tvwap/Tvimage/refs/heads/main/sts1h.jpg",
+      "category": "Sports",
+      "language": "en",
+      "country": "IN",
+      "open_in_browser": true,
+      "play_mode": "browser"
+    }
+  ]
+}
